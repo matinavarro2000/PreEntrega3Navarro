@@ -1,0 +1,52 @@
+h1 {
+    font-family: 'Arial', sans-serif; 
+    font-size: 24px; 
+    color: #4A90E2; 
+    text-align: center; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+
+#loginSection {
+    text-align: center; 
+    padding: 20px; 
+}
+
+#loginSection input, #loginSection button {
+    width: 80%; 
+    padding: 10px; 
+    margin: 10px 0; 
+    border: 2px solid green; 
+    font-size: 16px; 
+    border-radius: 5px; 
+}
+
+#loginSection button {
+    background-color: green; 
+    color: white; 
+    cursor: pointer; 
+}
+
+body {
+    background-color: #f0f0f0; 
+    
+}
+
+#productSection {
+    text-align: center; 
+    padding: 20px; 
+}
+
+#productSection input, #productSection button {
+    width: 80%; 
+    padding: 10px; 
+    margin: 10px 0; 
+    font-size: 16px; 
+    border-radius: 5px; 
+}
+
+#productSection button {
+    background-color: green; 
+    color: white; 
+    cursor: pointer; 
+}
